@@ -1,0 +1,11 @@
+# Site settings
+title: Hide in my shell
+email: mihaly@koles.hu
+description: Mostly photos, some techy posts.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://koles.hu" # the base hostname & protocol for your site
+twitter_username: nyuwec
+github_username:  nyuwec
+
+# Build settings
+markdown: kramdown
