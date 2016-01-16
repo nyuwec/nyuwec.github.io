@@ -32,4 +32,4 @@ No FTP! I mean there is no fucking FTP is used here.
 
 *Holy crap, it's 2016!*
 
-I'll write a small post about the technical background... or you can figure it by yourself out [here](https://help.github.com/categories/github-pages-basics/).
+I'll write a small post about the technical background... or you can figure it by yourself [here](https://help.github.com/categories/github-pages-basics/).
