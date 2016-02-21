@@ -4,10 +4,68 @@ email: mihaly@koles.hu
 description: Mostly photos, some techy posts.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://koles.hu" # the base hostname & protocol for your site
-twitter_username: nyuwec
-github_username:  nyuwec
-instagram_username: kolesm
-500px_username: kolesm
+title_description: Mostly photos, some techy posts. Not so personal.
+#blog logo
+logo: "/assets/images/avatar.jpg"
+# blog cover
+cover: "/assets/images/cover.jpg"
+google_analytics: UA-2775446-4
+disqus: hideinmyshell
+github_repository: https://nyuwec.github.io
+addthis_id:
+post_limit: 5
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/nyuwec
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/nyuwec
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	instagram
+    url:	https://instagram.com/kolesm
+    desc:	Check my humble photos
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	500px
+    url:	https://500px.com/kolesm
+    desc:	Check my "professional" photos
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	linkedin
+    url:	http://www.linkedin.com/in/mihalykoles
+    desc:	Linkedin profile
+    share_url:
+    share_title:
+    share_link:
 
 # Build settings
-markdown: kramdown
+gems:
+  - jemoji
+  - jekyll-paginate
+# markdown: kramdown
+# markdown: redcarpet
+# redcarpet:
+#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+# permalink: pretty
+# exclude: [vendor]
