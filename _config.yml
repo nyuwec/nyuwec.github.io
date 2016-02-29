@@ -61,8 +61,8 @@ social:
 
 # Build settings
 gems:
-  - jemoji
-  - jekyll-paginate
+#  - jemoji
+#  - jekyll-paginate
 # markdown: kramdown
 # markdown: redcarpet
 # redcarpet:
