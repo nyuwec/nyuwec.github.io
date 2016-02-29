@@ -60,7 +60,7 @@ social:
     share_link:
 
 # Build settings
-gems:
+# gems:
 #  - jemoji
 #  - jekyll-paginate
 # markdown: kramdown
