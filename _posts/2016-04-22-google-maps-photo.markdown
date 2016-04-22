@@ -1,10 +1,7 @@
 ---
 layout: post
-title: "Google Maps made my photo famous"
-date: 2016-04-22 22:41:00
-categories: blog photo English
+title: Google Maps made my photo famous
 tags: featured
-image: /assets/article_images/2016-04-22-google-maps-photo/header.jpg
 ---
 
 Today I received an email from Google Maps.
