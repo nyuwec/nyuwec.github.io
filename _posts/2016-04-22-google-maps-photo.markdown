@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google Maps made my photo famous
-date: 2016-04-22 22:41:00
 tags: featured
 ---
 
