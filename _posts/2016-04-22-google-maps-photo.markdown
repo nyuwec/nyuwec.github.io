@@ -14,3 +14,6 @@ Now it has [2947 views exactly](https://www.google.com/maps/contrib/110617674437
 Not any of my photos reached that popularity, thanks Google Maps.
 
 Such an interesting turn of events.
+
+I'm not sure what I can do with that single orphan point I received. Now I'm a Level 1 local guide.
+Should I be proud?
