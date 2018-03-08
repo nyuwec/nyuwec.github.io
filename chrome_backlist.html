@@ -1,50 +1,49 @@
-<html><head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta name="robots" content="noindex, nofollow">
-  <meta name="googlebot" content="noindex, nofollow">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script type="text/javascript" src="//code.jquery.com/jquery-1.9.1.js"></script>
-  <link rel="stylesheet" type="text/css" href="/css/result-light.css">
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/json2html/1.2.0/json2html.min.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.json2html/1.2.0/jquery.json2html.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-  <style type="text/css"></style>
-  <title></title>
-<script type="text/javascript">//<![CDATA[
-$(window).load(function(){
-$.ajax({
-  url: 'https://cs.chromium.org/chromium/src/gpu/config/software_rendering_list.json',
-  type: 'GET',
-  dataType: 'json',
-  jsonp: false,
-  complete: function(response) {
-    eval ('var resp = '+response.responseText);
-    var t = 
-      {"<>":"tr", "html": [
-          {"<>":"td","class":"","text":"${os.type}"},
-          {"<>":"td","class":"","text":"${description}"}
-        ]
-      };
-        
-    $("#thetablebody").append(json2html.transform(resp.entries,t));
-  }
-});
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/json2html/1.2.0/json2html.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.json2html/1.2.0/jquery.json2html.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <title>Chrome blacklist of Graphic cards and setups</title>
+    <script type="text/javascript">//<![CDATA[
+      $(window).load(function(){
+        $.ajax({
+          url: 'https://cs.chromium.org/chromium/src/gpu/config/software_rendering_list.json',
+          type: 'GET',
+          dataType: 'json',
+          jsonp: false,
+          complete: function(response) {
+            eval ('var resp = '+response.responseText);
+            var t = 
+              {"<>":"tr", "html": [
+                  {"<>":"td","class":"","text":"${os.type}"},
+                  {"<>":"td","class":"","text":"${description}"}
+                ]
+              };
 
-});//]]> 
-</script>
-</head>
+            $("#thetablebody").append(json2html.transform(resp.entries,t));
+          }
+        });
+      });//]]> 
+    </script>
+  </head>
 
-<body>
-  <h1>
-  Chrome blacklist of Graphic cards and setups
-</h1>
-<table id="thetable" class="table table-bordered">
-  <thead class="thead-light">
-    <tr>
-      <th>OS</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody id="thetablebody"><tr><td class="">macosx</td><td class="">ATI Radeon X1900 is not compatible with WebGL on the Mac.</td></tr><tr><td class="">linux</td><td class="">GL driver is software rendered. Accelerated compositing is disabled.</td></tr><tr><td class="">any</td><td class="">The Intel Mobile 945 Express family of chipsets is not compatible with WebGL.</td></tr><tr><td class="">linux</td><td class="">ATI/AMD cards with older or third-party drivers in Linux are crash-prone.</td></tr><tr><td class="">any</td><td class="">NVIDIA GeForce FX Go5200 is assumed to be buggy.</td></tr><tr><td class="">macosx</td><td class="">NVIDIA GeForce 7300 GT on Mac does not support WebGL.</td></tr><tr><td class="">win</td><td class="">Drivers older than 2009-01 on Windows are assumed to be buggy.</td></tr><tr><td class="">win</td><td class="">ATI drivers older than 10.6 on Windows XP are assumed to be buggy.</td></tr><tr><td class="">win</td><td class="">NVIDIA drivers older than 257.21 on Windows XP are assumed to be buggy.</td></tr><tr><td class="">win</td><td class="">Intel drivers older than 14.42.7.5294 on Windows XP are assumed to be buggy.</td></tr><tr><td class="">macosx</td><td class="">Multisampling is buggy in some ATI Mac cards.</td></tr><tr><td class="">linux</td><td class="">Intel mesa drivers are crash-prone.</td></tr><tr><td class="">linux</td><td class="">NVIDIA Quadro FX 1500 is buggy.</td></tr><tr><td class="">macosx</td><td class="">Accelerated 2d canvas and accelerated compositing are not supported in Mac OSX version 10.5.</td></tr><tr><td class="">linux</td><td class="">NVIDIA driver 260.19.06 on linux is crash-prone.</td></tr><tr><td class="">linux</td><td class="">NVIDIA driver 195.36.24 on linux is buggy for certain Quadro FX series cards.</td></tr><tr><td class="">linux</td><td class="">NVIDIA linux drivers older than 195.36.24 are assumed to be buggy.</td></tr><tr><td class="">linux</td><td class="">Mesa drivers in linux older than 7.11 are assumed to be buggy.</td></tr><tr><td class="">linux</td><td class="">Accelerated 2d canvas is unstable in Linux at the moment.</td></tr><tr><td class="">linux</td><td class="">ATI/AMD cards with older drivers in Linux are crash-prone.</td></tr><tr><td class="">linux</td><td class="">ATI/AMD cards with third-party drivers in Linux are crash-prone.</td></tr><tr><td class="">linux</td><td class="">ATI/AMD cards with third-party drivers in Linux are crash-prone.</td></tr><tr><td class="">linux</td><td class="">NVIDIA cards with nouveau drivers in Linux are crash-prone.</td></tr></tbody>
-</table>
-</body></html>
+  <body>
+    <h1>
+      Chrome blacklist of Graphic cards and setups
+    </h1>
+    <table id="thetable" class="table table-bordered">
+      <thead class="thead-light">
+        <tr>
+          <th>OS</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody id="thetablebody"><tr><td class="">macosx</td><td class="">ATI Radeon X1900 is not compatible with WebGL on the Mac.</td></tr><tr><td class="">linux</td><td class="">GL driver is software rendered. Accelerated compositing is disabled.</td></tr><tr><td class="">any</td><td class="">The Intel Mobile 945 Express family of chipsets is not compatible with WebGL.</td></tr><tr><td class="">linux</td><td class="">ATI/AMD cards with older or third-party drivers in Linux are crash-prone.</td></tr><tr><td class="">any</td><td class="">NVIDIA GeForce FX Go5200 is assumed to be buggy.</td></tr><tr><td class="">macosx</td><td class="">NVIDIA GeForce 7300 GT on Mac does not support WebGL.</td></tr><tr><td class="">win</td><td class="">Drivers older than 2009-01 on Windows are assumed to be buggy.</td></tr><tr><td class="">win</td><td class="">ATI drivers older than 10.6 on Windows XP are assumed to be buggy.</td></tr><tr><td class="">win</td><td class="">NVIDIA drivers older than 257.21 on Windows XP are assumed to be buggy.</td></tr><tr><td class="">win</td><td class="">Intel drivers older than 14.42.7.5294 on Windows XP are assumed to be buggy.</td></tr><tr><td class="">macosx</td><td class="">Multisampling is buggy in some ATI Mac cards.</td></tr><tr><td class="">linux</td><td class="">Intel mesa drivers are crash-prone.</td></tr><tr><td class="">linux</td><td class="">NVIDIA Quadro FX 1500 is buggy.</td></tr><tr><td class="">macosx</td><td class="">Accelerated 2d canvas and accelerated compositing are not supported in Mac OSX version 10.5.</td></tr><tr><td class="">linux</td><td class="">NVIDIA driver 260.19.06 on linux is crash-prone.</td></tr><tr><td class="">linux</td><td class="">NVIDIA driver 195.36.24 on linux is buggy for certain Quadro FX series cards.</td></tr><tr><td class="">linux</td><td class="">NVIDIA linux drivers older than 195.36.24 are assumed to be buggy.</td></tr><tr><td class="">linux</td><td class="">Mesa drivers in linux older than 7.11 are assumed to be buggy.</td></tr><tr><td class="">linux</td><td class="">Accelerated 2d canvas is unstable in Linux at the moment.</td></tr><tr><td class="">linux</td><td class="">ATI/AMD cards with older drivers in Linux are crash-prone.</td></tr><tr><td class="">linux</td><td class="">ATI/AMD cards with third-party drivers in Linux are crash-prone.</td></tr><tr><td class="">linux</td><td class="">ATI/AMD cards with third-party drivers in Linux are crash-prone.</td></tr><tr><td class="">linux</td><td class="">NVIDIA cards with nouveau drivers in Linux are crash-prone.</td></tr></tbody>
+    </table>
+  </body>
+</html>
