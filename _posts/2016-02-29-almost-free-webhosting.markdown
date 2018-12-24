@@ -2,7 +2,6 @@
 title:  "Almost free webhosting"
 date:   2016-02-29 00:10:00
 tags: [featured]
-image: /assets/article_images/2016-02-29-almost-free-webhosting/header.jpg
 ---
 
 So my new webpage/blog is hosted by [GitHub Pages](https://pages.github.com).
