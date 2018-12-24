@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to K O L E S . H U"
+title:  "Welcome to KOLES.HU"
 date:   2016-01-15 23:19:31
 tags: [start,English,featured]
 # image: /assets/article_images/2016-01-15-welcome-to-koles-hu/header.jpg
