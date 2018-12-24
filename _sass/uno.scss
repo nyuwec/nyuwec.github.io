@@ -68,8 +68,13 @@ body {
 	display: inline-block;
 	text-decoration: inherit;}
 
-.fa-icon:before {
-    font-family: "Font Awesome 5 Free";}
+.fab:before {
+  font-family: "Font Awesome 5 Brands";
+}
+
+.fas:before {
+  font-family: "Font Awesome 5 Free";
+}
 
 .icon-address-book:before {
 	content: "\f100"; }
@@ -1391,11 +1396,11 @@ nav {
 		position: relative;
 		border-color: #FFF;
 		color: #FFF;
-		opacity: .8; }
+		opacity: .6; }
 		.navigation__item a:hover {
 			color: #FFF;
 			border-color: #FFF;
-			opacity: 1; }
+			opacity: 1.0; }
 
 .navigation--social {
 	margin-left: 1.5em; }
