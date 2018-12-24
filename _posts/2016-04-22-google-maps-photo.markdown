@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Google Maps made my photo famous
 date: 2016-04-22 20:02:11
-tags: featured
+categories: [blog]
+tags: [featured]
 image: /assets/article_images/2016-04-22-google-maps-photo/header.jpg
 ---
 

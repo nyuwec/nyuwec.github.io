@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Welcome to K O L E S . H U"
 date:   2016-01-15 23:19:31
-categories: blog start English
-tags: featured
-image: /assets/article_images/2016-01-15-welcome-to-koles-hu/header.jpg
+tags: [start,English,featured]
+# image: /assets/article_images/2016-01-15-welcome-to-koles-hu/header.jpg
 ---
 
 Let's start it over again, this time in English. For the sake of practicing the language

@@ -10,34 +10,20 @@ logo: "/assets/images/avatar.jpg"
 # blog cover
 cover: "/assets/images/cover.jpg"
 google_analytics: UA-2775446-4
-disqus: hideinmyshell
+disqus_shortname: hideinmyshell
 github_repository: https://nyuwec.github.io
-addthis_id:
-post_limit: 5
+
+author:
+  name: 'Mihály Köles'
+  email: 'mihaly@koles.hu'
+  twitter_username: 'nyuwec'
+  github_username: 'nyuwec'
+  linkedin_username: 'mihalykoles'
+  500px_username: 'kolesm'
+  unsplash_username: 'mihaly_koles'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/nyuwec
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/nyuwec
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
   - icon:	instagram
     url:	https://instagram.com/kolesm
     desc:	Check my humble photos
@@ -60,12 +46,21 @@ social:
     share_link:
 
 # Build settings
-# gems:
-#  - jemoji
-#  - jekyll-paginate
-# markdown: kramdown
-# markdown: redcarpet
-# redcarpet:
-#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
-# permalink: pretty
-# exclude: [vendor]
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
