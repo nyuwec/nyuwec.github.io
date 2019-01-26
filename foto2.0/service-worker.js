@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/foto2.0/precache-manifest.43425e17df8a5fbf2dc0cf8c485cd95d.js"
+  "/foto2.0/precache-manifest.c526040e53090464c057769bcabaf94e.js"
 );
 
 workbox.clientsClaim();
