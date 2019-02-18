@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0396d555f0e140a6da69",
-    "url": "/foto2.0/static/css/main.39562c1c.chunk.css"
+    "revision": "2195582ea5a1d174af0c",
+    "url": "/foto2.0/static/css/main.1d85947a.chunk.css"
   },
   {
-    "revision": "0396d555f0e140a6da69",
-    "url": "/foto2.0/static/js/main.0396d555.chunk.js"
+    "revision": "2195582ea5a1d174af0c",
+    "url": "/foto2.0/static/js/main.2195582e.chunk.js"
   },
   {
     "revision": "bd0310a38217142f8ce9",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/foto2.0/static/js/runtime~main.9e168c26.js"
   },
   {
-    "revision": "87779b05b0fb26ef2816a214d9bfd328",
+    "revision": "56479dd72c7b22726d45e177f9c30bdc",
     "url": "/foto2.0/index.html"
   }
 ];
