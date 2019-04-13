@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: arial;
+}
+
+.foto2-gallery {
+  width: 25%;
+  display: inline-block;
+  margin-right: -4px;
+}
+
+.foto2-gallery a {
+  display: none;
+}
+
+.foto2-gallery a.main-img {
+  display: inline-block;
+}
+
+.foto2-gallery img {
+  width: 100%;
+}
+
+#copyright-footer {
+  font-size: 9px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  border-top: 1px dotted black;
+}
+
+#copyright-footer p {
+  margin-block-start: 0px;
+  margin-block-end: 3px;
+}
+
+.pswp__caption__center {
+  text-align: center;
+}
