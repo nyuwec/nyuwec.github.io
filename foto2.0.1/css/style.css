@@ -16,15 +16,24 @@ body {
 
 .foto2-gallery a.main-img {
   display: inline-block;
+  text-align: center;
 }
 
 .foto2-gallery img {
   width: 100%;
+  opacity: 0.5;
+  transition: transform .2s;
+}
+
+.foto2-gallery a.main-img:hover img {
+  opacity: 1.0;
+  transform: scale(1.2) translate(20px, -10px);
 }
 
 #copyright-footer {
   font-size: 9px;
   text-align: center;
+  color: #999;
   padding-top: 10px;
   margin-top: 0px;
   margin-bottom: 10px;
@@ -34,6 +43,10 @@ body {
 #copyright-footer p {
   margin-block-start: 0px;
   margin-block-end: 3px;
+}
+
+#copyright-footer a {
+  color: #999;
 }
 
 .pswp__caption__center {
