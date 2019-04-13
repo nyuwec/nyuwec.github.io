@@ -1026,6 +1026,14 @@
           }
         });
 
+        gallery.listen('close', function() {
+          document.body.style.backgroundColor = "white";
+        });
+
+        gallery.listen('initialZoomInEnd', function() {
+          document.body.style.backgroundColor = "black";
+        });
+
         gallery.init();
       };
 
