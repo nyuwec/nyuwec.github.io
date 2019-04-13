@@ -2,6 +2,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: arial;
+  transition: background .333s;
 }
 
 .foto2-gallery {
@@ -22,7 +23,7 @@ body {
 .foto2-gallery img {
   width: 100%;
   opacity: 0.5;
-  transition: transform .2s;
+  transition: transform .333s;
 }
 
 .foto2-gallery a.main-img:hover img {

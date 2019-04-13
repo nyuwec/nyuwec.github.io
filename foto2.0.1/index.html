@@ -1026,11 +1026,11 @@
           }
         });
 
-        gallery.listen('close', function() {
+        gallery.listen('initialZoomOut', function() {
           document.body.style.backgroundColor = "white";
         });
 
-        gallery.listen('initialZoomInEnd', function() {
+        gallery.listen('initialZoomIn', function() {
           document.body.style.backgroundColor = "black";
         });
 
