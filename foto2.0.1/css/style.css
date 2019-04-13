@@ -63,7 +63,7 @@ body {
 }
 
 #title-row::before {
-  content: "✂";
+  content: "✂︎";
   top: 22px;
   position: absolute;
   font-size: 19px;
@@ -83,7 +83,7 @@ body {
 }
 
 #copyright-footer::before {
-  content: "✂";
+  content: "✂︎";
   top: -11px;
   position: absolute;
   font-size: 19px;
