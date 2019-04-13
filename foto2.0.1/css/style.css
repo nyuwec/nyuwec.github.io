@@ -6,9 +6,26 @@ body {
 }
 
 .foto2-gallery {
-  width: 25%;
   display: inline-block;
   margin-right: -4px;
+}
+
+@media only screen and (max-width: 600px) {
+  .foto2-gallery {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .foto2-gallery {
+    width: 33.33%;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .foto2-gallery {
+    width: 25%;
+  }
 }
 
 .foto2-gallery a {
@@ -30,7 +47,7 @@ body {
 
 .foto2-gallery a.main-img:hover img {
   opacity: 1.0;
-  transform: scale(1.2) translate(20px, -10px);
+  transform: scale(1.2) translate(6%, -10px);
 }
 
 #title-row {
