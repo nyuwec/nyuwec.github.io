@@ -89,7 +89,7 @@ body {
 }
 
 /* RESPONSIVE */
-@media (min-width: 500px) or (orientation: portrait) {
+@media (min-width: 500px) {
   .foto2-gallery {
     width: 50%;
   }
