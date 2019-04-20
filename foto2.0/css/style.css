@@ -9,8 +9,10 @@ body {
   width: 100%;
   display: block;
   float: left;
-  margin-right: 0px;
-  margin-bottom: 0px;
+  margin-left: -1px;
+  margin-top: -1px;
+  border-right: 1px dashed #000;
+  border-bottom: 1px dashed #000;
 }
 
 .foto2-gallery a {
@@ -71,7 +73,6 @@ body {
   padding-top: 10px;
   margin-top: 3%;
   margin-bottom: 10px;
-  border-top: 1px dashed #555;
   position: relative;
   height: 36px;
   z-index: 100;
