@@ -105,13 +105,13 @@ body {
 }
 
 /* RESPONSIVE */
-@media (min-width: 500px) {
+@media (min-width: 512px) {
   .foto2-gallery {
     width: 50%;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 768px) and (orientation: landscape) {
   .foto2-gallery {
     width: 33.33%;
   }
