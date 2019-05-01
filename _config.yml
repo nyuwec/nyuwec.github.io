@@ -16,34 +16,11 @@ github_repository: https://nyuwec.github.io
 author:
   name: 'Mihály Köles'
   email: 'mihaly@koles.hu'
-  twitter_username: 'nyuwec'
   github_username: 'nyuwec'
   linkedin_username: 'mihalykoles'
   500px_username: 'kolesm'
   unsplash_username: 'mihaly_koles'
-
-# social icons and sharing options
-social:
-  - icon:	instagram
-    url:	https://instagram.com/kolesm
-    desc:	Check my humble photos
-    share_url:
-    share_title:
-    share_link:
-
-  # - icon:	500px
-  #   url:	https://500px.com/kolesm
-  #   desc:	Check my "professional" photos
-  #   share_url:
-  #   share_title:
-  #   share_link:
-
-  - icon:	linkedin
-    url:	http://www.linkedin.com/in/mihalykoles
-    desc:	Linkedin profile
-    share_url:
-    share_title:
-    share_link:
+  instagram_username: 'kozosmagany'
 
 # Build settings
 destination: _site
