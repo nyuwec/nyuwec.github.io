@@ -44,7 +44,7 @@ body {
 }
 
 #title-row {
-  font-size: 19px;
+  font-size: 17px;
   text-align: center;
   color: black;
   padding-bottom: 10px;
@@ -114,6 +114,9 @@ body {
 @media (min-width: 768px) and (orientation: landscape) {
   .foto2-gallery {
     width: 33.33%;
+  }
+  #title-row {
+    font-size: 18px;
   }
 }
 
