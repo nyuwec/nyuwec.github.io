@@ -1,5 +1,5 @@
 ---
-title: Photo gallery site
+title: Photo gallery site and the course I took
 date: 2019-05-01 22:30:00
 tags: [featured,photo]
 ---
@@ -10,12 +10,15 @@ My goal was to get closer to how photography as a form of art works.
 I consider myself a hobby photographer, I take photos mostly for my pure joy.
 I have not held any professional or amateur exhibition before, but as the closing ceremony of this course I showed my exam photo series to a small audience along with my fellow classmates of 12 people.
 
-At least that was the plan, but unfortunately the exhibition lasted only a couple of hours. So my intent of inviting friends to check my photos failed miserably. I was angry, I was pissed off short sighted the organizers were. All of us were angry back then.
+At least that was the plan, but unfortunately the exhibition lasted only a couple of hours. So my intent of inviting friends to check my photos failed miserably. I was angry, I was pissed off on how short sighted the organizers were. All of us were angry back then.
 
-Two ideas came to light that night. The first is that I can create a virtual exhibition to show all the photos from all the classmates. So at least on the web we can can have our corner we can invite our friends to check our work.
+Two ideas came to light that night. The first was that I can create a virtual exhibition to show all the photos from all the classmates. So at least on the web we can can have our corner we can invite our friends to check our work.
+The second one was creating a photography coaching service for people like us in need for guidance to open their wings and fly.
 
-Back to the photos; as I want to introduce them first. The title of the task we had to accomplish was: "Dream, Ecstasy, Vision". The real goal was to find something that motivates us and gives the photos some direction or cohesion. Under this umbrella we had to form our message or theme we wanted to formulate. So as you will see we all chose different topics as our "thesis".
+This post is about the first idea, so back to the photos as I want to introduce them a but. The title of the task we had to accomplish was: "Dream, Ecstasy, Vision". Behind this vague definition the real goal was to find something that motivates us and gives the photos some direction and cohesion. Under this umbrella we had to form our message or theme we wanted to formulate and express. So as you will see we all chose different topics as our "thesis".
 
-Some technical details: I chose to use [PotoSwipe](https://photoswipe.com) to handle the image show and all the interactions. I created the "design" from scratch. My goal was to create a very minimalistic site and put the spotlight to the individual galleries, as they are the main attraction. My secondary goal was to have a decent mobile viewing experience, similar what you can get on your mobile OS \*photos app.
+I've found mine while I was commuting to work and back home on the underground lines. The lack of interaction or rather avoiding interaction while commuting was something I always feel, but I never catch on any photo. So I started taking photos during my travels using my phone. I was quite nervous at the beginning, but it started wearing off in time and I started enjoying it so I played with different ideas and two remained: the censored style and the swipe panoramic one. The former came first as I took my first couple of photos through the window of the train while I was standing inside. People's eyes were "censored" on some of these photos and that was the moment I realized the connection: people while commuting are trying to censor what they want to see, whom they want to interact with... and it means almost everyone. The panoramic photos came later and it took me some time to practice the technique, also I had to post-process these photos a lot; all them were put together from at least two or more panorama shots.
+
+Finally some technical details about the site: I chose to use [PotoSwipe](https://photoswipe.com) to handle the image show and all the interactions. I created the "design" from scratch. My goal was to create a very minimalistic site and put the spotlight to the individual galleries, as they are the main attraction. My secondary goal was to have a decent mobile viewing experience, similar what you can get on your mobile OS \*photos app.
 
 And now, here is the link to the [Foto2.0 gallery](http://koles.hu/foto2.0/) page. I hope you'll enjoy the photos.
