@@ -8,10 +8,10 @@ At the beginning of this year I bumped into the realization that despite I own k
 
 Then I realized that I did not research if Github pages could support this kind of domain and if there is a way to host a page for more than one domain.
 
-##Short story quick
+## Short story quick
 Github support such domains, and they don't support multiple domains for a page.
 
-##Short story short
+## Short story short
 
 I wanted to test if Github could host any page for the new domain. So I created a new repo and enabled Github pages for it, then I tried to add the domain, which failed as I have to use the "Punycoded" version of the domain.
 
