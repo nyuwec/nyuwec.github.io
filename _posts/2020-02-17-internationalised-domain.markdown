@@ -15,6 +15,8 @@ Github support such domains, and they don't support multiple domains for a page.
 
 I wanted to test if Github could host any page for the new domain. So I created a new repo and enabled Github pages for it, then I tried to add the domain, which failed as I have to use the "Punycoded" version of the domain.
 
+![Guthub pages setup](/_posts/assets/2020-02-17-internationalised-domain.png)
+
 (You can check the details how you can use Github pages [here](/2016/almost-free-webhosting/) and [here](https://pages.github.com))
 
 Nice thing I noticed is that Github added support for HTTPS, I missed the nice lock in the address bar for years, so I happily ticked the checkbox.
