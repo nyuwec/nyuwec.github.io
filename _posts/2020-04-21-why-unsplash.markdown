@@ -18,5 +18,11 @@ I left Flickr for two reasons: it was hard to use it as a photo library and I wa
 
 ## Meanwhile
 I spent a lot of time during these years to find my photo storage and library management solution, I used Canon's ImageBrowserEx, then converting everything into Apple's iPhoto, then into Aperture, then to Photos, then I tried Lightroom and I went back to Photos. I played with the idea to manage everything with Google Photos, but I could not find it "pro" enough, it is more like a good backup and sharing platform rather than a versatile photo library for my needs.
+I used Aperture's website export feature and my own handmade site to put together my own portfolio site: https://web.archive.org/web/20080612085153/http://www.koles.hu/ Unfortunately the content is lost, only the frontpage is archived. I managed a blog back then, posting various stuff, sometimes photo projects too.
 
 ## The stock photo sites
+I tried to get access to some stock photo sites: Getty images and Shutterstock, hoping that I might be able to earn some money from the photos I'll sell there. I failed to get through the filters, also I was not super determined to do so, I gave up after 3 tries. But around 2011 a new kind of stock photo site got some momentum and I joined it instead.
+
+## 500px
+500px started as a photo community/sharing site, their name came from the minimum image width they allowed to upload. Later they improved the portfolio aspect and back then their page was one of the best looking photo sites around. They started a marketplace too which was even more catchy for my eyes, so I started uploading my finest selection of photos and occasionally I still upload some: [500px](https://500px.com/kolesm). I'm proud that I sold some photos there and later when they strike a deal with Getty images my photos finally appeared there too.
+What I like about 500px is that they kept this portfolio aspect and there is always the chance to make some money out of my hobby (even that income could not buy me the equipment and time I spend on it).
