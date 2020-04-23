@@ -1,7 +1,7 @@
 ---
 title: Why Unsplash?
 date: 2020-04-23 23:57:00
-tags: [featured]
+tags: [featured, photo]
 ---
 
 Let's start the story from far...
