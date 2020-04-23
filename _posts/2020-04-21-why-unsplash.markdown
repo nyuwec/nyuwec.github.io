@@ -39,7 +39,18 @@ I lost my interest in Instagram for different reasons: the daily routine of scro
 As a last idea I started to put together some thematic profiles there, but eventually I realized this mobile only, small size images feed is not my platform, it does not inspire me at all.
 
 ## Unsplash
-My last stop so far is [Unsplash](https://unsplash.com/@mihaly_koles). That site started as a Tumblr theme and site posting photos for free, they left Tumplr and built their own site, but kept the free photos aspect. Now all my photos on Unsplash are free to use. So why am I uploading to Unsplash, what is the motivation?
-I realized photography is my hobby, my free time activity what I do because I love to spend time taking the photo, retouch it and see it transforming to something I want to preserve from the moment I witnessed. Sometimes that moment is just a memory only important for me, sometimes it cheers people up or make them to whisper a quiet "wow". But at the end that is my time when I don't want to work on someone else's problem, idea or goal. That is my time and my accomplishement to have a photo I imagined or get surprised what I can get out from a moment. It is my craftmanship, my l'art pour l'art I don't have to explain.
-Unsplash is a good place for that as I don't feel the tension to upload something that can be used in someone else's presentation, ad campaign, motivational book, etc... That is my free-for-all portfolio I can give as a gift to anyone and you can take it if you want.
-No pressure, no hard feelings, no orders, just the feedback that my photos were downloaded more than 73.000 times and viewed more than 17 million times.
+My last stop so far is at [Unsplash](https://unsplash.com/@mihaly_koles). They created a Tumblr page posting photos for free. They left Tumplr and built their own site from the ground up, but they kept the free photos for everyone aspect. So all my photos on Unsplash are free to use.
+
+So why am I uploading any photo to Unsplash, what is the motivation?
+
+*Photography is my hobby, my free-time activity, I do it because I love taking photos, retouch them and see how they transform into something I want to preserve from the moment I witnessed.*
+
+Sometimes that moment I try to freeze into the photo is just a memory important for me only, sometimes it can cheer other people up or make them whisper "wow".
+
+But at the end the time I put into this hobby is the time when I want to focus on my ideas, the time I don't spend on someone else's problems.
+
+It is my accomplishement to have a photo I imagined or get surprised what I can get out from it I did not see when I took it. It is my craftmanship, my l'art pour l'art I don't have to explain.
+
+Unsplash is a good place for that. I don't feel the tension to upload something that can be used in someone else's presentation, ad campaign, motivational book, etc... That is my free-for-all portfolio I can offer as a gift to anyone and they can take it if they want.
+
+No pressure, no judgement, no orders, just the purest feedback from data: my photos were downloaded more than 73.000 times and viewed more than 17 million times... and counting.
