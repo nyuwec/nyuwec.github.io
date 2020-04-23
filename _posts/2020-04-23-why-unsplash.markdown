@@ -6,6 +6,8 @@ tags: [featured, photo]
 
 Let's start the story from far...
 
+![My current Unsplash toplist](/assets/2020-04-23-why-unsplash.jpg)
+
 As a hobby photographer I always looking for places my photos can fit into. I started with my own handmade websites, but soon I realized it takes too much time for me to create a site which stands out form the crowd. It took much time because as a young web developer I put too many fancy techy eyecandies into those pages that hid the photos I wanted to show. After some dead-end, straight to the desk pages I turned to something else, actually a series of different sites I joined and tried to fit my photos and my hobby in.
 
 ## Fotozz.hu
