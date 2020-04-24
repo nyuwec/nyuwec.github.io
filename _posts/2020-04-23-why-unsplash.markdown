@@ -11,7 +11,7 @@ Let's start the story from far...
 As a hobby photographer I always looking for places my photos can fit into. I started with my own handmade websites, but soon I realized it takes too much time from me to create a site which stands out from the crowd. After some dead-end, straight to the drawer webpages I turned to something else, actually a series of different sites I joined and tried to fit my photos and my hobby into.
 
 ## Fotozz.hu
-At first I joined a Hungarian photography website called [Fotozz.hu](http://fotozz.hu). The focus of that site back then was to gather photographers into a group where everyone tries to help each other with feedbacks so everyone in the community will learn a lot from each other and thrive to become a great photographer. For every feedback the site gave points, on the other hand to upload a photo I had to use some points. So this was the main motivator to spend some time with someone else's photo and give them some feedback. After a while a lot of people transformed to sharp-eyed photo critiques, picky and negative ones, which torn down my motivation to post any photo or give any feedback. I also realised I did not learn too much from the other non-educated, mostly rookie/hobby photographers. I felt like being in the kindergarten without a teacher... it was fun at the beginning, but it became boring and frustrating.
+At first I joined a Hungarian photography website called [Fotozz.hu](http://fotozz.hu). The focus of that site back then was to gather photographers into a group where everyone tries to help each other with feedbacks so everyone in the community will learn a lot from each other and thrive to become a great photographer. For every feedback the site gave points, on the other hand to upload a photo I had to use some points. So this was the main motivator to spend some time with someone else's photo and give them some feedback. After a while, a lot of people transformed to sharp-eyed photo critiques, picky and negative ones, which torn down my motivation to post any photo or give any feedback. I also realised I did not learn too much from the other non-educated, mostly rookie/hobby photographers. I felt like being in the kindergarten without a teacher... it was fun at the beginning, but it became boring and frustrating.
 
 ## Facebook
 As most of us I posted some of my photos to Facebook: besides the low quality, random photos I uploaded project-like albums. That was a totally different thing, it seemed like finally I can upload as many photos as I want, share it with friends and forget the critiques. But as you might have guessed I got some likes and some generic "very cool pics", "wow amazing", etc... comments. Which became boring and pointless while I was still looking for feedback and some direction I can grow. So I dropped the album and photo posts and went with the crowd into the total nonsense what we know Facebook is all about... but I looked somewhere else, a technical challenge of keeping my photos safe and organized, because the amount of them exceeded the capacity of my hard drives.
@@ -29,7 +29,7 @@ Unfortunately the content is lost, only the frontpage is archived. I managed a b
 I tried to get access to some stock photo sites: Getty images and Shutterstock, hoping that I might be able to earn some money from the photos I'll put there. I failed to get through the filters, but I was not super determined to do that, I gave up after 2 or 3 tries. I looked elsewhere, something that doesn't feel like working, where the first requirement is uploading photos and not fulfilling the customers' needs.
 
 ## 500px
-500px started as a photo community/sharing site, which evolved into a mix of portfolio and marketplace for photographers. When I joined in 2011, back then their page was one of the best looking photo sites around. They had a marketplace too which made 500px even more desired for my eyes. I uploaded my finest selection of photos and put them to the marketplace ( occasionally I still upload some photos there). [My 500px profile](https://500px.com/kolesm)
+500px started as a photo community/sharing site, which evolved into a mix of portfolio and marketplace for photographers. When I joined in 2011, back then their page was one of the best looking photo sites around. They had a marketplace too which made 500px even more desired for my eyes. I uploaded my finest selection of photos and put them to the marketplace and I still upload some photos there time-to-time: [My 500px profile](https://500px.com/kolesm)
 
 I'm proud that I sold some photos there and later when they struck a deal with Getty Images my photos appeared there too. I choose the long road, but I liked it.
 What I still like about 500px is that they kept this portfolio aspect and they did not push the social side too much, also there is always a chance to make some money out of my hobby (even that income could not buy me the equipment and time I spend on it).
@@ -37,19 +37,17 @@ What I still like about 500px is that they kept this portfolio aspect and they d
 ## Instagram
 After I got disillusioned with Facebook I joined Instagram (back then they were independent from the big brother) and I enjoyed the visual blog aspect of it. It was great to find some really good photographers or just funny photos from sharp-eyed people without any serious attachment to photography. I used Instagram as my blog back then, but later I transformed it into something else: an ad-site for my 500px portfolio and my Facebook photography page I put together as a marketing trick. So Instagram became my ad platform for another ad platform to promote my money chasing effort on 500px. Yes this sounds pathetic I know, so I gave up on this after a while.
 
-I lost my interest in Instagram for different reasons: the daily routine of scrolling through so many not categorized photos - the funny ones, friends' photos, pro photographers', ads... - became a useless habbit as I could not get anything out of that. I did not learn or get inspiration from the photos I scrolled through like a robot.
+I lost my interest in Instagram for different reasons: the daily routine of scrolling through so many not categorized photos - the funny ones, friends' photos, pro photographers', ads... - became a useless habit as I could not get anything out of that. I did not learn or get inspiration from the photos I scrolled through like a robot.
 As a last idea I started to put together some thematic profiles there, but eventually I realized this mobile only, small size images feed is not my platform, it does not inspire me at all.
 
 ## Unsplash
-My last stop so far is at [Unsplash](https://unsplash.com/@mihaly_koles). They created a Tumblr page posting photos for free. They left Tumplr and built their own site from the ground up, but they kept the free photos for everyone aspect. So all my photos on Unsplash are free to use.
+My last stop so far is at [Unsplash](https://unsplash.com/@mihaly_koles). They created a Tumblr page posting photos for free. They left Tumblr and built their own site from the ground up, but they kept the free photos for everyone aspect. So all my photos on Unsplash are free to use.
 
 So why am I uploading any photo to Unsplash, what is the motivation?
 
 *Photography is my hobby, my free-time activity, I do it because I love taking photos, retouch them and see how they transform into something I want to preserve from the moment I witnessed.*
 
 Sometimes that moment I try to freeze into the photo is just a memory important for me only, sometimes it can cheer other people up or make them whisper "wow".
-
-But at the end the time I put into this hobby is the time when I want to focus on my ideas, the time I don't spend on someone else's problems.
 
 It is my accomplishement to have a photo I imagined or get surprised what I can get out from it I did not see when I took it. It is my craftmanship, my l'art pour l'art I don't have to explain.
 
