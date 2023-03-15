@@ -2,7 +2,7 @@
 title: Google Maps made my photo famous
 date: 2016-04-22 20:02:11
 categories: [blog]
-tags: [featured]
+tags: [featured, photo]
 ---
 
 Today I received an email from Google Maps.

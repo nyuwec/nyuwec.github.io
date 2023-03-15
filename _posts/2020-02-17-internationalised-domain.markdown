@@ -1,7 +1,7 @@
 ---
 title: First steps with an international domain
 date: 2020-02-17 10:00:00
-tags: [featured]
+tags: [featured, tech]
 ---
 
 At the beginning of this year I bumped into the realization that despite I own koles.hu, my family name is actually Köles and I don't own that domain. After a quick lookup I saw that köles.hu was still available, so I immediately bought.

@@ -1,7 +1,7 @@
 ---
 title: Photo gallery site and the course I took
 date: 2019-05-01 22:30:00
-tags: [featured,photo]
+tags: [featured, photo]
 ---
 
 In 2018 I attended a photography class organized by [MOME](http://open.mome.hu).

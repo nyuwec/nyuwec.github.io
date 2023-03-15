@@ -1,7 +1,7 @@
 ---
 title: A Slick intro to functional mapping of relational databases
 date: 2023-03-15 21:21:00
-tags: [featured]
+tags: [featured, tech]
 ---
 
 When I planned backend applications and I highlighted the key elements of them I used words like flexibility, speed, scalability and platform-independence. But the last one of these was always a lie in many ways.
