@@ -84,7 +84,7 @@ Let’s check some libraries, first let me quote [Anorm](https://playframework.g
 
 Here is an example:
 
-```
+```scala
 import anorm.{Macro, RowParser, SqlStringInterpolation}
 import java.sql.Connection
 
@@ -117,7 +117,7 @@ Is it bad then, as it hides SQL and most of the RDBMS?
 
 Let me be more clear: it can hide them, but it also gives you the tools to use it similarly to Anorm, giving you all the benefits of Scala if you need to sit closer to the engine. Let’s see the above example written in Slick:
 
-```
+```scala
 import slick.basic.DatabaseConfig
 import slick.jdbc.JdbcProfile
 import slick.lifted.{ForeignKeyQuery, ProvenShape}
