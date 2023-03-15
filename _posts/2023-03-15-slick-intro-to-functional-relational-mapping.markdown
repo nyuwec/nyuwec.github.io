@@ -1,6 +1,6 @@
 ---
 title: A Slick intro to functional mapping of relational databases
-date: 2023-03-15 21:21:00
+date: 2023-03-15 20:21:00
 tags: [featured, tech]
 ---
 
