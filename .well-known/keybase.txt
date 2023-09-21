@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mihaly_koles_pw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://koles.hu
+  * I am mihaly_koles_pw (https://keybase.io/mihaly_koles_pw) on keybase.
+  * I have a public key ASAnpKI6wsIpgZS40bTdtDymqjvDteiFYe4IyMeB0zm70Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209a73076539ed10e05af1c2616530f50b17edf8064bbc54f15e1a1589ab0197930a",
+      "host": "keybase.io",
+      "kid": "012027a4a23ac2c2298194b8d1b4ddb43ca6aa3bc3b5e88561ee08c8c781d339bbd10a",
+      "uid": "822b40f031a807ef6b3eff7d8fa46619",
+      "username": "mihaly_koles_pw"
+    },
+    "merkle_root": {
+      "ctime": 1695282015,
+      "hash": "5efa57bc1c35bf6ac3018ccdb4534184a52c21df3bf820a304754fe598c8203ffcbf39f5f4a6b6f709ee6699be3a52338f2dec03d4ffab8ece700875b191d9b9",
+      "hash_meta": "085deb1c4b89d766c4ef0d825fbca7548e788478ce486cd5ac0d4f625b468ded",
+      "seqno": 24943553
+    },
+    "service": {
+      "entropy": "D3eUxdEBUTDQLfOg9wdUP6z+",
+      "hostname": "koles.hu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.1"
+  },
+  "ctime": 1695282020,
+  "expire_in": 504576000,
+  "prev": "9e56b849f4d2b88fcd4ac5236dba697b7a1dfaa97ff75ba5fb71ce5f332dc2ce",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJ6SiOsLCKYGUuNG03bQ8pqo7w7XohWHuCMjHgdM5u9EKp3BheWxvYWTESpcCBsQgnla4SfTSuI/NSsUjbbppe3od+ql/91ul+3HOXzMtws7EIFvDXhuETwo6/v0SmnpHAmKZWXDNMX4bJqsaLWGt/N0pAgHCo3NpZ8RAMG4l+kFyPL8tZSxmc78plkr7T00YQQYeRsS1QITMSZWDQnwSYkysYqQxS503A+Q5ghV40RvNy1MfcU4+zuN6BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKfTWwsINiW5EFeNJL60NdTCH1ect1TJKhvMc5QPAOT3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mihaly_koles_pw
+
+==================================================================
